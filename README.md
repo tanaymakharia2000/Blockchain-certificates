@@ -11,7 +11,7 @@ A collection of blockchain certificates
 
 ### Steps to contribute
 1. Fork the repository
-2. Move to [/examples/](https://github.com/blockchain-at-india/Blockchain-certificates/tree/master/examples)
+2. Move to /examples/ in your forked repo
 3. Create a file named <YourName.docs>
 4. Add certificate's hash
 5. Create a pull-request
