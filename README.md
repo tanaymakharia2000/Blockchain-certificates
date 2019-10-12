@@ -6,3 +6,6 @@ A collection of blockchain certificates
 2. Create a file named <YourName.docs>
 3. Add certificate's hash
 4. Create a pull-request
+
+#### To claim the T-Shirt
+Fill this form: https://forms.gle/Ypq8U33M2oLhU7Cc9
